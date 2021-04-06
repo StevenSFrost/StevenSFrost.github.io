@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+  color: #0bc908;
+  margin: 50px;
+}
+
+h1 {
+  text-align: center;
+}
+
+a:visited {
+  color: blue;
+}
+
+div.Sidebar {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding: 20px;
+}
+
+div.Content {
+  padding-left: 180px;
+}
+
+/*# sourceMappingURL=style.css.map */
